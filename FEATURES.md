@@ -1,11 +1,13 @@
 # Features and specification
 
 ## Context
-The situation, job, and desired progress:
+Researchers publishing novel methodologies face pushback proving the validity data to reviewers (JOB-01, JOB-02). Currently, authors must either spend hours manually assembling raw files, execution logs, and READMEs before initial submission (INT-01), or risk long and costly delays conducting external validation reruns when reviewers challenge custom parameters (INT-02). 
 
+To eliminate this obstacle, the proposed system is an automated data provenance and audit trail generator. The system integrates into existing scientific processing pipelines to capture hashes of raw inputs, script parameters, and execution logs. It enables researchers to instantly export standardized, immutable manifests that prove data integrity and pipeline execution without exposing proprietary source code or requiring manual work.
 ## Users
 Profiles and evidence in USERS.md:
-
+**PROFILE-01 (Early-Career Academic Researcher):** Undergraduate researchers using custom data pipelines (such as cell segmentation scripts) face issues preparing files prior to journal submission (INT-01). They require an automated mechanism to log script parameters and generate standardized provenance packages (JOB-01) so they can eliminate manual file packaging without interrupting lab work.
+* **PROFILE-02 (Senior R&D Lead & Industry Executive):** Senior research leads publishing unconventional findings face skepticism regarding data integrity (INT-02). They require verifiable audit trails and raw baseline exports (JOB-02) to validate experimental integrity without delays or external validation reruns.
 ## Scope
 Included behavior and explicit non-goals:
 
