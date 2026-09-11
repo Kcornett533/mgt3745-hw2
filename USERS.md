@@ -22,8 +22,11 @@ INT-02 | Senior Industry Research Lead & Startup Executive | September 9, 2026
 What happened and the participant's workaround: Submitted a manuscript that contained findings that challenged the status quo of tissue storage. The primary reviewer accepted the paper into the journal, but left comments (can be viewed by readers) that suggested that many of the results could have been due to an artefact, noise, or an improper signal threshold. In order to bolster credibility of the data, INT-02's workaround was collaborating with an external academic lab to redo much of the experimentation. They spent many weeks on generating a validation of the dataset before resubmitting the paper to the same journal.  
 
 What was reported: Stated that when findings challenge established scientific consensus, standard protocol isn't enough. Reviewers expect extra validation, especially when data is tied to corporate entities.  
+
 what I observed: Seemed frustrated when recalling the weeks of delay and logistics required to nullify the skepticism.  
-What you inferred: Researchers face great time and financial demands proving cutting edge data validity because they lack the tools to verify protocol execution internally.
+
+What you inferred: Researchers face great time and financial demands proving cutting edge data validity because they lack the tools to verify protocol execution internally.  
+
 Evidence that confirms, challenges, or leaves the framing uncertain: Confirms that proving raw data validity for novel science is one of the primary publication obstacles.
 
 ## Job statements
@@ -34,16 +37,25 @@ JOB-02: When unconventional scientific findings face reviewer pushback, I want t
 Evidence: INT-02 lost six weeks and R&D budget commissioning an external lab re-run after a reviewer questioned custom assay thresholds.
 
 ## User profiles
-PROFILE-01: Early-Career Academic Researcher
+PROFILE-01: Undergraduate Academic Researcher
 * **Relevant role:** Undergraduate / Graduate Researcher in a Biomedical Optics & Imaging Laboratory.
-* **Circumstances:** Regularly processes high-volume microscopy data using custom-built scripts (e.g., cell-segmentation pipelines) and prepares primary data packages for peer-reviewed journal submissions.
-* **Needs:** An automated way to track script execution parameters and bundle raw data into a standardized provenance package without interrupting active wet-lab experiments.
-* **Constraints:** Limited administrative bandwidth, no formal software engineering background, and reliance on open-source file platforms (e.g., Figshare, GitHub).
+* **Circumstances:** Regularly processes lots of microscopy data using custom-built scripts and prepares data packages for peer-reviewed journal submissions.
+* **Needs:** An automated way to track script execution parameters and turn raw data into a standardized package without interrupting wet-lab experiments.
+* **Constraints:** No formal software engineering background and reliance on open source file platforms.
 * **Evidence IDs:** INT-01, JOB-01
 * **Profile Insights:**
-  * *Reported:* Spends up to 20 hours per submission cycle manually organizing raw TIF files, writing README documentation, and logging script execution parameters.
-  * *Observed:* Expresses resignation toward pre-submission file packaging, viewing it as necessary but disruptive "administrative busywork."
-  * *Inferred:* Student researchers want to share verifiable raw data, but the lack of automated provenance tools makes manual prep a major productivity bottleneck.
+  * *Reported:* Spends up to 10 hours per submission cycle manually organizing raw .tiff files, writing README documentation, and logging script execution parameters.
+  * *Observed:* Not a fan of pre-submission file packaging, viewing it as necessary but tedious.
+  * *Inferred:* Student researchers want to share verifiable raw data, but the lack of tools makes manual prep a major productivity obstacle.
 PROFILE-02: relevant role, circumstances, needs, constraints, and evidence IDs.
 
-Use reported / observed / inferred labels. Earlier known / assumed labels are acceptable if the distinction is clear. Two exploratory interviews do not establish population prevalence.
+PROFILE-02: Senior R&D Lead & Industry Executive
+* **Relevant role:** CEO of a Biotechnology R&D Firm.
+* **Circumstances:** Manages research and clinical validation studies that frequently feature nonstandard experimental protocols.
+* **Needs:** A method to export immutable evidence, raw baseline data, and protocol lineages to satisfy peer reviewers without massive project delays.
+* **Constraints:** Strict project milestones, tight R&D budgets, and the need to protect algorithms or trade secrets while proving raw data validity.
+* **Evidence IDs:** INT-02, JOB-02
+* **Profile Insights:**
+  * *Reported:* Encountered a few weeks timeline delay and unbudgeted R&D expenses when comissioning external lab reruns to satisfy reviewer doubts.
+  * *Observed:* Emphasizes that papers advancing nonstandard or unconventional methodology face a burden of proof regarding data validity.
+  * *Inferred:* Senior research managers will invest in internal data auditing tools if it avoids costly revision cycles.
