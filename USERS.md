@@ -1,7 +1,5 @@
 # User research and jobs
 
-## Interview synthesis
-Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and approximately 15 minutes per interview. Ask about a specific recent experience. Summarize confirmed, contradicted, or uncertain findings; do not manufacture surprises. Keep sensitive raw notes out of the repository.
 
 ### INT-01
 INT-01 | Undergraduate Researcher, BME Optics & Imaging Lab | September 7, 2026  
