@@ -27,8 +27,8 @@ Provide at least six features. For each, name the user segment, date, category, 
 | F-02 | Simple Export to JSON/PDF Manifest | Performance | PROFILE-01<br>September 10, 2026 | Cuts manual packaging time (INT-01 lost 10+ hours). Faster exports and ease of use make the system more desirable. |
 | F-03 | Automatic script tracker | Performance | PROFILE-01<br>September 10, 2026 | Easier setup for those not accustomed to software. Easier integration increases satisfaction. |
 | F-04 | Live result testing tool | Attractive | PROFILE-02<br>September 10, 2026 | Lets reviewers provide feedback avoiding reruns (INT-02). Unexpected feature that will provide satisfaction. | |
-| F-05 | | | | |
-| F-06 | | | | |
+| F-05 | Custom UI | Indifferent | PROFILE-01 / PROFILE-02<br>September 10, 2026 | Visual styling does not help pass peer review or verify data. Users might not care. | |
+| F-06 | Mandatory Code Sharing | Reverse | PROFILE-02<br>September 10, 2026 | Forcing industry users to share any type of data drives them away. | |
 
 ## Behavior
 Sequence, conditions, actions, and visible outcomes:
