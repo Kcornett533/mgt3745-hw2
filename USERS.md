@@ -10,9 +10,9 @@ What happened and the participant's workaround: While preparing a manuscript for
 
 What was reported: The data clean-up took up the entirety of his required 10 hours a week of lab time in the week leading up to send off. This time took away from actual wet-lab experiments.  
 
-What you observed: He stated that he learned preemptive actions such as this data cleaning were common, but also thought they were largely a waste of time.  
+What I observed: He stated that he learned preemptive actions such as this data cleaning were common, but also thought they were largely a waste of time.  
 
-What you inferred: Academic labs spend a lot of time and effort preemptively supplying proof of integrity to reviewers because there is no way to definitively prove the trustworthiness of the data, so they want to leave as little doubt as possible.  
+What I inferred: Academic labs spend a lot of time and effort preemptively supplying proof of integrity to reviewers because there is no way to definitively prove the trustworthiness of the data, so they want to leave as little doubt as possible.  
 
 Evidence that confirms, challenges, or leaves the framing uncertain: It confirms that the integrity of the data is an important factor to consider before sending in a  submission, but challenges that the friction caused by the data is mostly apparent after being sent back by a reviewer.
 
