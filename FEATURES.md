@@ -9,8 +9,15 @@ Profiles and evidence in USERS.md:
 **PROFILE-01 (Early-Career Academic Researcher):** Undergraduate researchers using custom data pipelines (such as cell segmentation scripts) face issues preparing files prior to journal submission (INT-01). They require an automated mechanism to log script parameters and generate standardized provenance packages (JOB-01) so they can eliminate manual file packaging without interrupting lab work.
 * **PROFILE-02 (Senior R&D Lead & Industry Executive):** Senior research leads publishing unconventional findings face skepticism regarding data integrity (INT-02). They require verifiable audit trails and raw baseline exports (JOB-02) to validate experimental integrity without delays or external validation reruns.
 ## Scope
-Included behavior and explicit non-goals:
+### Included Behavior (In-Scope)
+* **Automated Logging:** Log raw data, pipeline parameters, and execution environments automatically during script runs
+* **Manifest Export:** Generate provenance manifests and audit trails for manuscript submission.
+* **Verification:** Produce hashes for raw inputs and outputs to prove data remains unaltered.
 
+### Explicit Non-Goals (Out-of-Scope)
+* **Heavy Raw Data Storage:** Storing large datasets directly.
+* **Code Debugging:** Validating or fixing runtime errors in algorithms.
+* **Electronic Lab Notebook Replacement:** Acting as a general Electronic Lab Notebook for text notes or inventory.
 ### Kano hypotheses
 Provide at least six features. For each, name the user segment, date, category, and evidence-based reasoning. These are tentative hypotheses, not validated survey findings.
 
