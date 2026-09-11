@@ -23,7 +23,7 @@ Provide at least six features. For each, name the user segment, date, category, 
 
 | Feature ID | Feature | Kano hypothesis | Segment / date | Evidence and reasoning |
 |---|---|---|---|---|
-| F-01 | | | | |
+| F-01 | Digital Data Seal & Verification | Must-have | PROFILE-01 / PROFILE-02<br>September 10, 2026 |
 | F-02 | | | | |
 | F-03 | | | | |
 | F-04 | | | | |
